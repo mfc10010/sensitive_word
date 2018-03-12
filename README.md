@@ -23,3 +23,8 @@ func main()  {
 	fmt.Println(s.GetSensitiveWord("办证ss11翻八九民communistgggtttthe Communist Party"))
 }
 ```
+
+## result print
+```
+**ss11翻************gggttt*******************	
+```
