@@ -1,5 +1,6 @@
 # sensitive_word
 
+sensitive_word is a tool for filter word.you can use it to replace sensitive word to "*".
 ## installtion
 
 ### use to get
