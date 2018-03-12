@@ -2,8 +2,10 @@
 
 ## installtion
 
-use to get<br>
-go get -u github.com/mfc10010/sensitive_word<br>
+### use to get
+```
+go get -u github.com/mfc10010/sensitive_word
+```
 ## usage
 
 ```go
