@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/sensitive_word/key"
+	"github.com/sensitive_word"
 	"fmt"
 )
 
