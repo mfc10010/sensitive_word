@@ -24,7 +24,7 @@ func main()  {
 }
 ```
 
-## result print
+## print result 
 ```
 **ss11翻************gggttt*******************	
 ```
